@@ -1,12 +1,4 @@
 <div align="center"> <h1> Aziret Ramankulov </h1> </div>
-    
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Colonel-Aziret&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-    <img src="https://github.r2v.ch/codewars?user=Colonel-Aziret&stroke=white" />
-</p>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Colonel-Aziret&theme=tokyonight" alt="https://github.com/anuraghazra/github-readme-stats" />
