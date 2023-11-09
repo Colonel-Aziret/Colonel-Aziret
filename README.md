@@ -1,17 +1,20 @@
-<div align="center"> <h1> Aziret Ramankulov </h1> </div>
+## Hello my name is Aziret
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Colonel-Aziret&theme=tokyonight" alt="https://github.com/anuraghazra/github-readme-stats" />
-</p>
+## I'm Java Developer
 
-<div align="center"> <h1> Contact with me </h1> </div>
+---
 
-<div align="center">
-    <a href="https://www.linkedin.com/in/aziret-ramankulov/"> <img src="https://thumbs.dreamstime.com/b/linkedin-social-media-icon-logo-vector-element-white-background-social-media-logos-suitable-mobile-apps-web-apps-print-142153162.jpg"
+## My contact information
+
+<div align="left">
+    <a href="https://www.linkedin.com/in/aziret-ramankulov/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png"
         alt="alt text" width="50" height="50" border="10"/></a>
-     <a href="https://t.me/xaziretx"> <img src="https://w7.pngwing.com/pngs/508/998/png-transparent-telegram-computer-icons-logo-android-angle-triangle-monochrome-thumbnail.png"
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.instagram.com/smth_69/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"
         alt="alt text" width="50" height="50" border="10"/></a>
-    <a href="https://www.instagram.com/smth_69/"> <img src="https://w7.pngwing.com/pngs/789/603/png-transparent-computer-icons-social-media-logo-social-media-black-thumbnail.png"
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://t.me/xAziretx"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1024px-Telegram_2019_Logo.svg.png"
         alt="alt text" width="50" height="50" border="10"/></a>
-
 </div>
+
+### aziret.ramankulov.dev@gmail.com
